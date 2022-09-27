@@ -5,6 +5,7 @@
 * distributed to other students.
 *
 * Name: Rupin Sharma Student ID: 106212202 Date: 2022/04/16
+* Heroku Link: https://fast-fortress-53615.herokuapp.com/
 *
 ********************************************************************************/ 
 import { Component } from '@angular/core';
